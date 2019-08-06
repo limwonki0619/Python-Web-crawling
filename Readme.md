@@ -1,4 +1,4 @@
-# **Python-Web-crawling Ref zip**
+# **Python Web crawling Ref zip**
 
 
  - [인프런 : 파이썬을 이용한 웹 크롤링(Web Crawling) 어플리케이션 만들기](https://www.inflearn.com/course/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81web-crawling-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0#description)
