@@ -1,9 +1,11 @@
-## **Python-Web-crawling Ref zip**
+# **Python-Web-crawling Ref zip**
 
- - [ÀÎÇÁ·± : ÆÄÀÌ½ãÀ» ÀÌ¿ëÇÑ À¥ Å©·Ñ¸µ(Web Crawling) ¾îÇÃ¸®ÄÉÀÌ¼Ç ¸¸µé±â](https://www.inflearn.com/course/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81web-crawling-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0#description)
- - [ÆÄÀÌ½ã À¥ Å©·Ñ¸µ ¸¶½ºÅÍÇÏ±â](https://senticoding.tistory.com/52)
- - [À¥ Å©·Ñ¸µ Á» ´õ ÀßÇÏ±â](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
- - [³ª¸¸ÀÇ À¥ Å©·Ñ·¯ ¸¸µé±â](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)
- - [ÆÄÀÌ½ã ·¹½ÃÇÇ - À¥ È°¿ë ÀÔ¹®Æí : blog](https://gosmcom.tistory.com/61?category=335277)
- - [ÆÄÀÌ½ã ·¹½ÃÇÇ - À¥ È°¿ë ÀÔ¹®Æí : Youtube](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrOh0A_xh7TO4QfWFMo1fWH5)
- - [ÆÄÀÌ½ãÀ» ÀÌ¿ëÇÑ Å©·Ñ¸µ : GET vs POST](https://rednooby.tistory.com/97)
+
+ - [ì¸í”„ëŸ° : íŒŒì´ì¬ì„ ì´ìš©í•œ ì›¹ í¬ë¡¤ë§(Web Crawling) ì–´í”Œë¦¬ì¼€ì´ì…˜ ë§Œë“¤ê¸°](https://www.inflearn.com/course/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81web-crawling-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0#description)
+ - [íŒŒì´ì¬ ì›¹ í¬ë¡¤ë§ ë§ˆìŠ¤í„°í•˜ê¸°](https://senticoding.tistory.com/52)
+ - [ì›¹ í¬ë¡¤ë§ ì¢€ ë” ì˜í•˜ê¸°](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
+ - [ë‚˜ë§Œì˜ ì›¹ í¬ë¡¤ëŸ¬ ë§Œë“¤ê¸°](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)
+ - [íŒŒì´ì¬ ë ˆì‹œí”¼ - ì›¹ í™œìš© ì…ë¬¸í¸ : blog](https://gosmcom.tistory.com/61?category=335277)
+ - [íŒŒì´ì¬ ë ˆì‹œí”¼ - ì›¹ í™œìš© ì…ë¬¸í¸ : Youtube](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrOh0A_xh7TO4QfWFMo1fWH5)
+ - [íŒŒì´ì¬ì„ ì´ìš©í•œ í¬ë¡¤ë§ : GET vs POST](https://rednooby.tistory.com/97)
+ - [ìŠ¤íƒ€ë²…ìŠ¤ ë§¤ì¥ í¬ë¡¤ë§ ì˜ˆì œ ì½”ë“œ]https://financedata.github.io/posts/python_starbucks_map.html
