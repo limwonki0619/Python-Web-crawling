@@ -8,4 +8,6 @@
  - [파이썬 레시피 - 웹 활용 입문편 : blog](https://gosmcom.tistory.com/61?category=335277)
  - [파이썬 레시피 - 웹 활용 입문편 : Youtube](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrOh0A_xh7TO4QfWFMo1fWH5)
  - [파이썬을 이용한 크롤링 : GET vs POST](https://rednooby.tistory.com/97)
+ - [파이썬 requests 라이브러리 살펴보기 : get, post 응답](https://blog.naver.com/21ahn/221330643313)
  - [스타벅스 매장 크롤링 예제 코드](https://financedata.github.io/posts/python_starbucks_map.html)
+ 
