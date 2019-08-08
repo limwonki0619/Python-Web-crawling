@@ -10,4 +10,4 @@
  - [파이썬을 이용한 크롤링 : GET vs POST](https://rednooby.tistory.com/97)
  - [파이썬 requests 라이브러리 살펴보기 : get, post 응답](https://blog.naver.com/21ahn/221330643313)
  - [스타벅스 매장 크롤링 예제 코드](https://financedata.github.io/posts/python_starbucks_map.html)
- 
+ - [크롤러 차단 우회하기](https://blog.naver.com/21ahn/221330643313)
