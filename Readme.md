@@ -13,3 +13,4 @@
  - [크롤러 차단 우회하기](https://blog.naver.com/21ahn/221330643313)
  - [마우스 Selenium](http://allselenium.info/mouse-over-actions-using-python-selenium-webdriver/)
  - ["버거지수"는 진짜 도시의 발전 수준을 반영할까?](https://nbviewer.jupyter.org/gist/hyeshik/cf9f3d7686e07eedbfda#%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C-%EB%A7%A4%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B0%9B%EC%95%84%EC%99%80%EC%84%9C-%EB%B6%84%EC%84%9D%ED%95%9C%EB%8B%A4.)
+ - [T아카데미 : Python을 활용한 웹 크롤러 만들기](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=133#sec1)
